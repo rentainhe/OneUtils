@@ -3,4 +3,4 @@ from torchvision.models import alexnet
 model = alexnet(pretrained=True)
 
 data_path = "/DATA/disk1/ImageNet/extract"
-eval_torch_acc(model, data_path, gpus="1")
+eval_torch_acc(model, data_path, n_gpu_use=1)
