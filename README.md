@@ -3,7 +3,7 @@ A collection of useful tools for oneflow
 
 ## Installation
 ```bash
-pip install one-utils==0.0.2
+pip install one-utils==0.0.3
 ```
 
 ## Usage
