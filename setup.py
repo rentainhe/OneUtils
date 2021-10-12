@@ -14,7 +14,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='one-utils',
-    version='0.0.2', # 版本号
+    version='0.0.3', # 版本号
     author='rentianhe',
     author_email='596106517@qq.com',
     description='oneflow tools',
